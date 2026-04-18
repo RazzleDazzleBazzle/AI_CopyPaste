@@ -4,7 +4,7 @@ This Privacy Policy explains what information AICopyPaste collects, why it colle
 1. Who we are
 AICopyPaste is developed and operated by Darren B Wilson  ("we", "us", "our"). If you have any questions about this policy, contact us at:
 
-Darrenwilson23@icloud.com
+darrenwilson23@icloud.com
 
 2. What we collect
 We collect only what is necessary to operate the clipboard strip feature. Nothing more.
@@ -55,7 +55,7 @@ You have the right to:
 •	Delete individual entries or all entries at any time
 •	Disable iCloud sync at any time in the app's Settings
 •	Revoke Full Access at any time via iOS Settings > General > Keyboard > Keyboards
-•	Request deletion of any account or associated data by contacting us at [your@email.com]
+•	Request deletion of any account or associated data by contacting us at darrenwilson23@icloud.com
 
 7. Children
 AICopyPaste is not directed at children under the age of 13. We do not knowingly collect data from children. If you believe a child has provided data through our app, please contact us and we will delete it promptly.

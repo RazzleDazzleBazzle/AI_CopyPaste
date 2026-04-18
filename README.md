@@ -37,19 +37,21 @@ iOS requires keyboard extensions to be granted "Full Access" by the user in orde
 Apple's standard Full Access warning states that the developer could transmit anything you type. This warning applies to all keyboards requesting this permission. We want to be unambiguous: we do not log, store, or transmit keystrokes. The Full Access permission is used solely for the three purposes listed above.
 
 4. How we store your data
-Storage type	- Details
-On-device (default)	- All clipboard entries are stored in the app's private local storage on your iPhone or iPad. No data leaves your device unless you enable iCloud sync.
-iCloud sync (opt-in)	- When enabled, entries sync via Apple's encrypted iCloud infrastructure. We do not operate our own sync servers.
-Retention	 - Clipboard entries remain until you delete them manually, clear all entries from the strip, or uninstall the app. We do not apply automatic expiry by default.
-Encryption  - Data stored on-device is protected by iOS's standard data protection. iCloud data is encrypted in transit and at rest by Apple.
+   Storage type	        - Details
+   On-device (default)	- All clipboard entries are stored in the app's private local storage on your iPhone or iPad. No data leaves your device unless you enable
+                          iCloud sync.
+   iCloud sync (opt-in)	- When enabled, entries sync via Apple's encrypted iCloud infrastructure. We do not operate our own sync servers.
+   Retention	          - Clipboard entries remain until you delete them manually, clear all entries from the strip, or uninstall the app. We do not apply automatic
+                          expiry by default.
+   Encryption           - Data stored on-device is protected by iOS's standard data protection. iCloud data is encrypted in transit and at rest by Apple.
 
-5. Sharing your data
+6. Sharing your data
 We do not sell, rent, or share your clipboard data with any third party. The only circumstances in which data may be disclosed are:
 •	If required by Australian law or a valid legal order
 •	To Apple, as part of iCloud sync (governed by Apple's own Privacy Policy)
 •	To an anonymised crash reporting service, which receives no clipboard content
 
-6. Your rights
+7. Your rights
 You have the right to:
 •	Access all clipboard data stored by the app (it is visible to you in the app at all times)
 •	Delete individual entries or all entries at any time
@@ -57,8 +59,8 @@ You have the right to:
 •	Revoke Full Access at any time via iOS Settings > General > Keyboard > Keyboards
 •	Request deletion of any account or associated data by contacting us at darrenwilson23@icloud.com
 
-7. Children
+8. Children
 AICopyPaste is not directed at children under the age of 13. We do not knowingly collect data from children. If you believe a child has provided data through our app, please contact us and we will delete it promptly.
 
-8. Changes to this policy
+9. Changes to this policy
 If we make material changes to this Privacy Policy, we will notify you via an in-app notice and update the effective date at the top of this document. Continued use of the app after the notice period constitutes acceptance of the updated policy.

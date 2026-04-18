@@ -37,13 +37,13 @@ iOS requires keyboard extensions to be granted "Full Access" by the user in orde
 Apple's standard Full Access warning states that the developer could transmit anything you type. This warning applies to all keyboards requesting this permission. We want to be unambiguous: we do not log, store, or transmit keystrokes. The Full Access permission is used solely for the three purposes listed above.
 
 4. How we store your data
-   Storage type	        - Details
-   On-device (default)	- All clipboard entries are stored in the app's private local storage on your iPhone or iPad. No data leaves your device unless you enable
+ - Storage type	        - Details
+ - On-device (default)	- All clipboard entries are stored in the app's private local storage on your iPhone or iPad. No data leaves your device unless you enable
                           iCloud sync.
-   iCloud sync (opt-in)	- When enabled, entries sync via Apple's encrypted iCloud infrastructure. We do not operate our own sync servers.
-   Retention	          - Clipboard entries remain until you delete them manually, clear all entries from the strip, or uninstall the app. We do not apply automatic
+ - iCloud sync (opt-in)	- When enabled, entries sync via Apple's encrypted iCloud infrastructure. We do not operate our own sync servers.
+ - Retention	          - Clipboard entries remain until you delete them manually, clear all entries from the strip, or uninstall the app. We do not apply automatic
                           expiry by default.
-   Encryption           - Data stored on-device is protected by iOS's standard data protection. iCloud data is encrypted in transit and at rest by Apple.
+ - Encryption           - Data stored on-device is protected by iOS's standard data protection. iCloud data is encrypted in transit and at rest by Apple.
 
 6. Sharing your data
 We do not sell, rent, or share your clipboard data with any third party. The only circumstances in which data may be disclosed are:

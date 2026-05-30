@@ -64,3 +64,87 @@ AICopyPaste is not directed at children under the age of 13. We do not knowingly
 
 9. Changes to this policy
 If we make material changes to this Privacy Policy, we will notify you via an in-app notice and update the effective date at the top of this document. Continued use of the app after the notice period constitutes acceptance of the updated policy.
+
+
+FEATURES
+=========
+Clipboard History
+• Automatic clipboard monitoring on macOS and iOS — copies are saved instantly
+• Manual save from the toolbar ("Save from Clipboard" button)
+• Supports all content types: plain text, URLs, images, files, and binary data
+• Automatic type detection and classification
+• Duplicate detection — the same content is never saved twice
+• Search across all items (text, URLs, filenames, comments, type identifiers)
+• Pin items to keep them permanently at the top of the list
+• Add and edit comments/annotations on any item
+• Swipe actions for quick pin and comment operations
+• Auto-delete old items (configurable: 7 / 14 / 30 / 90 / 180 / 365 days)
+• Configurable maximum item size (1 MB → 1 GB, or unlimited)
+
+Storage & Sync
+• Device storage — kept locally in an App Group container shared with the helper and extensions
+• iCloud storage — CloudKit sync across all your Apple devices
+• Promote individual device items to iCloud on demand
+• Switch storage location from Settings (requires restart)
+• Automatic migration from legacy storage location
+
+Link Previews
+• Automatic rich link preview fetching for URLs and text containing links
+• Persistent disk-based image cache with in-memory metadata cache (100 items)
+• Compact preview in list rows (title + thumbnail)
+• Full rich preview in context menu long-press
+
+Copy & Paste
+• One-tap copy any item back to clipboard
+• Context menu with Copy, Open URL, Save to Downloads, Pin, Add Comment, Send to iCloud, Delete
+• On macOS, file copies are delegated to the native helper for full file attachment support
+• Visual checkmark feedback on copy
+
+Mac Menu Bar Helper
+• Separate native macOS helper app that runs silently in the background
+• Menu bar icon with live badge count (caps at 99+)
+• Floating Clip Panel — resizable panel showing your most recent clips, accessible from the menu bar
+• Configurable number of recent clips shown (5–100)
+• Global keyboard shortcut ⌘⇧V to show/hide the Clip Panel from anywhere
+• Launch at Login support
+
+App Lock & Security
+• PIN lock (4–6 digits) stored securely in Keychain
+• Face ID / Touch ID biometric unlock with PIN fallback
+• Auto-locks when the app is backgrounded or inactive
+• PIN change and removal from Settings
+
+Data Import / Export
+• Export all clipboard items as a JSON file
+• Import from a previously exported JSON file (duplicates skipped automatically)
+• On macOS: saves directly to Downloads folder
+• On iOS: standard share sheet
+
+iOS Keyboard Extension
+• Custom keyboard giving direct access to your clipboard history from any app
+• Horizontally scrolling clip cards with thumbnails, URL previews, and comments
+• Type icons and domain extraction for URLs
+• "Next Keyboard" button for switching
+• Syncs with the main app via App Group
+
+iOS Share Extension
+• Share any URL, image, file, video, or text directly into the clipboard history from any app's share sheet
+• Compose field text becomes the item's comment when sharing an attachment
+
+Platform Support
+• iOS (iPhone and iPad)
+• macOS via Mac Catalyst
+• iCloud sync between iOS and macOS
+
+Context Menu Actions (long press / right click)
+| Action | Available for |
+|---|---|
+| Copy | All items |
+| Open URL | URL items and text containing a valid URL |
+| Save to Downloads | Files, images, binary data (macOS) |
+| Pin / Unpin | All items |
+| Add / Edit Comment | All items |
+| Send to iCloud | Device-stored items |
+| Delete | All items |
+
+

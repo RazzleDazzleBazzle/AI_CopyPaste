@@ -1,4 +1,3 @@
-iPhone, iPad and mac Clipboard store...can keep in sync across all devices
 
 Privacy Policy  
 This Privacy Policy explains what information AICopyPaste collects, why it collects it, and how it is handled. We have written this in plain English because we believe you deserve a clear and honest explanation, not legal boilerplate.  
